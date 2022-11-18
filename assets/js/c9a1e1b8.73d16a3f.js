@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbigdata_blog=self.webpackChunkbigdata_blog||[]).push([[7676],{7233:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/bigdata-blog/blog/tags/docusaurus","allTagsPath":"/bigdata-blog/blog/tags","count":4}')}}]);
